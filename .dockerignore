@@ -1,0 +1,15 @@
+.git
+.gitignore
+.gitattributes
+.gradle
+.idea
+.vscode
+build/
+out/
+bin/
+*.log
+.DS_Store
+Dockerfile
+docker-compose*.yml
+README.md
+HELP.md
